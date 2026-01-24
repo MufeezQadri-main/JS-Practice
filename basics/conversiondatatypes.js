@@ -7,4 +7,4 @@ let score = "33"
 console.log(booleanIsLoggedIn);
 let someNumber = 45
 let stringNumber = String(someNumber);
-console.log(stringNumber);
+console.log(stringNumber);  
